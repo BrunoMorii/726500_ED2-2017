@@ -1,0 +1,76 @@
+Registro JIVA050514 inserido com sucesso. Numero de colisoes: 0.
+
+Registro IFSQ030817 inserido com sucesso. Numero de colisoes: 0.
+
+Registro WEVA250513 inserido com sucesso. Numero de colisoes: 0.
+
+ERRO: Ja existe um registro com a chave primaria: JIVA050514.
+
+Registro LYNA160814 inserido com sucesso. Numero de colisoes: 0.
+
+Registro SYNA140700 inserido com sucesso. Numero de colisoes: 0.
+
+Registro WANA270418 inserido com sucesso. Numero de colisoes: 0.
+
+Registro AOSQ060590 inserido com sucesso. Numero de colisoes: 1.
+
+Registro FA2K220390 inserido com sucesso. Numero de colisoes: 0.
+
+ERRO: Ja existe um registro com a chave primaria: AOSQ060590.
+
+Registro RENA050290 inserido com sucesso. Numero de colisoes: 0.
+
+Registro ESNA060617 inserido com sucesso. Numero de colisoes: 0.
+
+Registro LAVA030217 inserido com sucesso. Numero de colisoes: 3.
+
+Registro ULNA250418 inserido com sucesso. Numero de colisoes: 0.
+
+Registro IMSQ250114 inserido com sucesso. Numero de colisoes: 0.
+
+Registro YEUB241005 inserido com sucesso. Numero de colisoes: 0.
+
+Registro IMNI150303 inserido com sucesso. Numero de colisoes: 0.
+
+Registro IMUB240221 inserido com sucesso. Numero de colisoes: 4.
+
+Registro THCA270717 inserido com sucesso. Numero de colisoes: 4.
+
+Registro KAUB250213 inserido com sucesso. Numero de colisoes: 6.
+
+Registro ALCA240414 inserido com sucesso. Numero de colisoes: 6.
+
+ERRO: Tabela Hash esta cheia!
+
+********************************BUSCAR********************************
+Registro(s) nao encontrado!
+********************************BUSCAR********************************
+Registro(s) nao encontrado!
+********************************BUSCAR********************************
+WANA270418
+WANBEL THELEQUA
+NAMCO
+27/04/2014
+18
+0074.07
+INDIE RACING RPG SIMULATOR SPORTS 
+********************************LISTAR********************************
+[0] Ocupado: YEUB241005
+[1] Ocupado: ALCA240414
+[2] Ocupado: JIVA050514
+[3] Ocupado: FA2K220390
+[4] Ocupado: IMSQ250114
+[5] Ocupado: IFSQ030817
+[6] Ocupado: IMNI150303
+[7] Ocupado: ESNA060617
+[8] Ocupado: WANA270418
+[9] Ocupado: LYNA160814
+[10] Ocupado: AOSQ060590
+[11] Ocupado: RENA050290
+[12] Ocupado: LAVA030217
+[13] Ocupado: IMUB240221
+[14] Ocupado: THCA270717
+[15] Ocupado: SYNA140700
+[16] Ocupado: ULNA250418
+[17] Ocupado: WEVA250513
+[18] Ocupado: KAUB250213

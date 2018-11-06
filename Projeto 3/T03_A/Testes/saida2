@@ -1,0 +1,405 @@
+********************************BUSCAR********************************
+MOBE060521
+MOREN ENNORE IRRAN SERINE
+BETHESDA
+06/05/2011
+21
+0033.90
+ADVENTURE CASUAL 
+ERRO: Ja existe um registro com a chave primaria: MOBE060521.
+
+********************************BUSCAR********************************
+Registro(s) nao encontrado!
+Registro IMSE051205 inserido com sucesso. Numero de colisoes: 64.
+
+********************************BUSCAR********************************
+IMSE051205
+IMYHE BELANORE THEVALENORA
+SEGA
+05/12/2004
+05
+0153.86
+CASUAL INDIE MULTIPLAYER RACING RPG 
+Registro YEVA071005 inserido com sucesso. Numero de colisoes: 76.
+
+Registro IMNA151017 inserido com sucesso. Numero de colisoes: 108.
+
+Registro IMAC040213 inserido com sucesso. Numero de colisoes: 0.
+
+Registro THNA270518 inserido com sucesso. Numero de colisoes: 59.
+
+Registro KAAC110618 inserido com sucesso. Numero de colisoes: 0.
+
+ERRO: Ja existe um registro com a chave primaria: YEVA071005.
+
+Registro ALSE140514 inserido com sucesso. Numero de colisoes: 63.
+
+Registro NIVA241203 inserido com sucesso. Numero de colisoes: 76.
+
+Registro YLKO140300 inserido com sucesso. Numero de colisoes: 44.
+
+Registro NYCA061214 inserido com sucesso. Numero de colisoes: 104.
+
+Registro THBE170490 inserido com sucesso. Numero de colisoes: 100.
+
+Registro ELUB151217 inserido com sucesso. Numero de colisoes: 84.
+
+Registro TH2K121113 inserido com sucesso. Numero de colisoes: 1.
+
+Registro NINA120505 inserido com sucesso. Numero de colisoes: 108.
+
+Registro OLUB200817 inserido com sucesso. Numero de colisoes: 60.
+
+Registro NESQ090421 inserido com sucesso. Numero de colisoes: 10.
+
+Registro MYBE050521 inserido com sucesso. Numero de colisoes: 87.
+
+Registro LESQ020313 inserido com sucesso. Numero de colisoes: 64.
+
+Registro HEAC190907 inserido com sucesso. Numero de colisoes: 84.
+
+Registro NYSE041100 inserido com sucesso. Numero de colisoes: 69.
+
+********************************BUSCAR********************************
+MYBE050521
+MYO DORTHORE RU
+BETHESDA
+05/05/2017
+21
+0153.03
+RACING SIMULATOR SPORTS 
+********************************ALTERAR*******************************
+Registro(s) nao encontrado!
+FALHA AO REALIZAR OPERACAO!
+********************************ALTERAR*******************************
+Campo invalido! Informe novamente.
+Campo invalido! Informe novamente.
+Campo invalido! Informe novamente.
+Campo invalido! Informe novamente.
+Campo invalido! Informe novamente.
+Campo invalido! Informe novamente.
+Campo invalido! Informe novamente.
+Campo invalido! Informe novamente.
+OPERACAO REALIZADA COM SUCESSO!
+********************************BUSCAR********************************
+MYBE050521
+MYO DORTHORE RU
+BETHESDA
+05/05/2017
+21
+0001.80
+RACING SIMULATOR SPORTS 
+**********************EXCLUIR*********************
+OPERACAO REALIZADA COM SUCESSO!
+********************************BUSCAR********************************
+Registro(s) nao encontrado!
+********************************ARQUIVO*******************************
+THNI110903@THEVALENORA YLOLENORA@NINTENDO@11/09/2010@03@0040.03@054@ACTION|ADVENTURE|CASUAL|MULTIPLAYER@########################################################################################ELUB040918@ELYANEAS NYSE TIRION@UBISOFT@04/09/2003@18@0171.99@042@INDIE|SPORTS@#################################################################################################################THNA110300@THEHTALOS THEVALENORA@NAUTY DOGS@11/03/2003@00@0210.64@005@CASUAL|SIMULATOR@#########################################################################################################NIAC261117@NILSASARI ELYANEAS@ACTIVISION@26/11/2006@17@0233.18@089@ADVENTURE|SIMULATOR@#########################################################################################################OL2K061117@OLYVASERA THEHTALOS@2K GAMES@06/11/2018@17@0054.54@030@RACING|RPG@###################################################################################################################NENA041217@NEM SERIN NILSASARI@NAMCO@04/12/2017@17@0242.33@082@ACTION|INDIE@####################################################################################################################MY2K270321@MYO DORTHORE OLYVASERA@2K GAMES@27/03/2000@21@0070.08@093@CASUAL@####################################################################################################################LEBE020803@LELMA CAELORA NEM SERIN@BETHESDA@02/08/2017@03@0160.39@039@ADVENTURE|CASUAL|RACING@##################################################################################################HEAC030505@HELE ALORA MYO DORTHORE@ACTIVISION@03/05/2018@05@0107.09@062@ACTION|CASUAL@##########################################################################################################NYVA161113@NYNA ORTHEIAD LELMA CAELORA@VALVE@16/11/2006@13@0139.27@018@ACTION|SPORTS@###########################################################################################################YLNA010113@YLA EDHIL HELE ALORA@NAUTY DOGS@01/01/2013@13@0032.97@059@ACTION|CASUAL|SPORTS@######################################################################################################THNI020413@THELEQUA NYNA ORTHEIAD@NINTENDO@02/04/2001@13@0216.42@022@ACTION|RACING@#############################################################################################################AMNA191007@AMYRANLEAN YLA EDHIL@NAUTY DOGS@19/10/2011@07@0139.48@088@CASUAL|INDIE|MULTIPLAYER|RACING@###########################################################################################MENA060213@MERENTHEMAR THELEQUA@NAMCO@06/02/2018@13@0213.48@080@ACTION|MULTIPLAYER|RACING|RPG|SIMULATOR@########################################################################################EMCA070413@EMYMA ENNORE AMYRANLEAN@CAPCOM@07/04/2017@13@0117.84@094@ACTION|ADVENTURE|INDIE|MULTIPLAYER@#########################################################################################NYNA120103@NYTA ANORE MERENTHEMAR@NAMCO@12/01/2013@03@0239.41@027@RPG|SIMULATOR|SPORTS@#########################################################################################################IFVA120118@IFFANORE EMYMA ENNORE@VALVE@12/01/2000@18@0142.56@038@ADVENTURE|CASUAL|INDIE@########################################################################################################AENA050418@AENLONE NYTA ANORE@NAMCO@05/04/2002@18@0222.13@037@CASUAL|MULTIPLAYER@###############################################################################################################ARVA210314@ARANRIUS IFFANORE@VALVE@21/03/2014@14@0110.49@005@CASUAL|INDIE|RPG|SIMULATOR|SPORTS@#################################################################################################NYCA100817@NYLVATHAES AENLONE@CAPCOM@10/08/2008@17@0112.24@018@MULTIPLAYER@#####################################################################################################################AAAC141118@AAENA CAELORA ARANRIUS@ACTIVISION@14/11/2013@18@0202.60@084@MULTIPLAYER@#############################################################################################################JINA210890@JIALLIAN NYLVATHAES@NAMCO@21/08/2018@90@0192.04@073@ADVENTURE|CASUAL|MULTIPLAYER@####################################################################################################SHNA121221@SHENBEL AAENA CAELORA@NAUTY DOGS@12/12/2006@21@0037.28@050@ADVENTURE|CASUAL|MULTIPLAYER|RACING@######################################################################################AFBE090914@AFNSHARA JIALLIAN@BETHESDA@09/09/2014@14@0096.17@072@MULTIPLAYER|RACING|SPORTS@######################################################################################################SH2K230513@SHEHARION SHENBEL@2K GAMES@23/05/2014@13@0240.65@021@ADVENTURE|MULTIPLAYER|RACING|SIMULATOR@#########################################################################################ISNA060114@ISHHE BELANORE AFNSHARA@NAUTY DOGS@06/01/2018@14@0064.63@064@ADVENTURE|RACING@#######################################################################################################IYAC010403@IYAENAGROTH SHEHARION@ACTIVISION@01/04/2014@03@0212.94@090@ACTION|CASUAL|INDIE|RACING@###############################################################################################YEBE270518@YELNORA ISHHE BELANORE@BETHESDA@27/05/2014@18@0095.61@087@ACTION@####################################################################################################################GAUB200917@GAETHQUA IYAENAGROTH@UBISOFT@20/09/2005@17@0075.91@013@ACTION|ADVENTURE|RACING|RPG@##################################################################################################FYNA030613@FYNE AETHEL YELNORA@NAUTY DOGS@03/06/2010@13@0082.80@041@ACTION|ADVENTURE|MULTIPLAYER@###############################################################################################OM2K180703@OMYAENA ORTHEIAD GAETHQUA@2K GAMES@18/07/2007@03@0136.18@045@ACTION|RPG|SIMULATOR|SPORTS@############################################################################################AS2K220290@ASHSE TIRION FYNE AETHEL@2K GAMES@22/02/2016@90@0228.83@030@INDIE|SIMULATOR|SPORTS@##################################################################################################AY2K190514@AYMMEL OMYAENA ORTHEIAD@2K GAMES@19/05/2003@14@0155.27@030@ADVENTURE|CASUAL|RACING|RPG|SIMULATOR@####################################################################################NINA250907@NILRENRION ASHSE TIRION@NAUTY DOGS@25/09/2009@07@0210.32@002@ACTION|INDIE|RPG@#######################################################################################################UNUB270605@UNYRANLUMA AYMMEL@UBISOFT@27/06/2002@05@0023.34@070@INDIE|SIMULATOR@#################################################################################################################LYNA120390@LYLLARIUS NILRENRION@NAMCO@12/03/2006@90@0047.27@060@CASUAL@#########################################################################################################################MONI120400@MORNE ANORE UNYRANLUMA@NINTENDO@12/04/2002@00@0127.87@077@SIMULATOR|SPORTS@##########################################################################################################MESE261107@MEATHLIAN LYLLARIUS@SEGA@26/11/2007@07@0165.23@066@ACTION|ADVENTURE|INDIE@###########################################################################################################ALSQ040413@ALYHO NALORE MORNE ANORE@SQUARE ENIX@04/04/2014@13@0196.85@049@ADVENTURE|MULTIPLAYER|RACING|RPG@#####################################################################################THKO220605@THELMEHONE MEATHLIAN@KONAMI@22/06/2006@05@0142.96@019@ADVENTURE|INDIE|SPORTS@########################################################################################################ESCA270813@ESMELLE ALYHO NALORE@CAPCOM@27/08/2014@13@0231.18@071@INDIE|RPG|SIMULATOR@###########################################################################################################YOUB061118@YOKADI THELMEHONE@UBISOFT@06/11/2015@18@0069.97@008@CASUAL|MULTIPLAYER@##############################################################################################################ELNA210205@ELLLELUNE ESMELLE@NAMCO@21/02/2018@05@0117.89@026@ADVENTURE|RPG@#####################################################################################################################WENA220514@WEETH AIQUA YOKADI@NAMCO@22/05/2002@14@0117.14@099@MULTIPLAYER|RACING|RPG|SIMULATOR|SPORTS@##########################################################################################AMBE070517@AMHOLENOR ELLLELUNE@BETHESDA@07/05/2011@17@0148.33@015@ADVENTURE|CASUAL|MULTIPLAYER|RACING|RPG@######################################################################################THSE150390@THILSA BELANORE WEETH AIQUA@SEGA@15/03/2001@90@0158.15@014@CASUAL|INDIE|MULTIPLAYER|SPORTS@##########################################################################################YLAC080605@YLLRENNOR AMHOLENOR@ACTIVISION@08/06/2011@05@0195.22@061@ADVENTURE|CASUAL|RPG@#######################################################################################################IRNA060921@IRRAN SERINE THILSA BELANORE@NAUTY DOGS@06/09/2014@21@0215.87@024@MULTIPLAYER@#######################################################################################################AMKO010107@AMVATHEAS YLLRENNOR@KONAMI@01/01/2004@07@0179.77@067@CASUAL|RACING|RPG|SIMULATOR|SPORTS@#############################################################################################MO2K270414@MOREN ENNORE IRRAN SERINE@2K GAMES@27/04/2016@14@0181.22@060@MULTIPLAYER@############################################################################################################AMCA250717@AMITHEAS AMVATHEAS@CAPCOM@25/07/2004@17@0116.15@072@ACTION|ADVENTURE|CASUAL|MULTIPLAYER|SIMULATOR@###################################################################################OSVA090417@OSEL ANCALEN MOREN ENNORE@VALVE@09/04/2007@17@0012.67@093@ACTION|RACING|SIMULATOR@###################################################################################################LSKO040603@LSE EDHIL AMITHEAS@KONAMI@04/06/2003@03@0056.77@013@ACTION@##########################################################################################################################URSQ260813@URENSERIN OSEL ANCALEN@SQUARE ENIX@26/08/2007@13@0011.98@072@CASUAL|MULTIPLAYER|RPG@#################################################################################################RACA200521@RAATH ANORE LSE EDHIL@CAPCOM@20/05/2018@21@0095.63@037@ADVENTURE|CASUAL|INDIE|RPG@###################################################################################################SISQ070417@SILNASERA URENSERIN@SQUARE ENIX@07/04/2013@17@0116.24@070@ACTION|CASUAL|MULTIPLAYER|RPG@#############################################################################################JISE181103@JINETHALAS RAATH ANORE@SEGA@18/11/2005@03@0157.97@004@MULTIPLAYER@###################################################################################################################ILVA071103@ILALIN SILNASERA@VALVE@07/11/2001@03@0002.72@060@ADVENTURE|INDIE@####################################################################################################################MICA070507@MILS ALARI JINETHALAS@CAPCOM@07/05/2014@07@0182.34@085@ADVENTURE|RACING|RPG|SIMULATOR@###############################################################################################YR2K190203@YREN BELANORE ILALIN@2K GAMES@19/02/2005@03@0133.76@032@ACTION|ADVENTURE|MULTIPLAYER|RACING|RPG@#####################################################################################ISNA011221@ISHA ALLANAR MILS ALARI@NAUTY DOGS@01/12/2003@21@0064.09@078@ACTION|ADVENTURE|CASUAL|INDIE|MULTIPLAYER@##############################################################################OSSE230114@OSYA ENNORE YREN BELANORE@SEGA@23/01/2006@14@0097.35@012@RPG|SIMULATOR@##############################################################################################################ILCA210400@ILYETHHIL ISHA ALLANAR@CAPCOM@21/04/2009@00@0061.17@069@ACTION|MULTIPLAYER|RPG|SIMULATOR@############################################################################################GAVA070617@GAHA THALAS OSYA ENNORE@VALVE@07/06/2007@17@0159.29@014@ADVENTURE|INDIE|SIMULATOR@###################################################################################################MABE070213@MATHH ESARI ILYETHHIL@BETHESDA@07/02/2000@13@0071.79@050@ACTION|MULTIPLAYER|RPG@#####################################################################################################CY2K250603@CYF SHAERAS GAHA THALAS@2K GAMES@25/06/2017@03@0232.84@004@ACTION|CASUAL|MULTIPLAYER@################################################################################################MANA261014@MATHAENA SERIN MATHH ESARI@NAMCO@26/10/2010@14@0212.30@096@ADVENTURE|MULTIPLAYER@####################################################################################################OSNA221021@OSFALUMA CYF SHAERAS@NAUTY DOGS@22/10/2010@21@0239.76@019@ACTION|ADVENTURE|CASUAL|INDIE@#############################################################################################EMBE250590@EMLELIN MATHAENA SERIN@BETHESDA@25/05/2017@90@0083.48@061@ADVENTURE|CASUAL|RPG|SIMULATOR|SPORTS@#####################################################################################ENAC230517@ENE ASARI OSFALUMA@ACTIVISION@23/05/2017@17@0120.44@014@ACTION|ADVENTURE|INDIE|RPG@##################################################################################################UESE140117@UEL ASARI EMLELIN@SEGA@14/01/2010@17@0197.51@035@ADVENTURE|CASUAL|INDIE|RACING|SPORTS@###############################################################################################SHBE201290@SHEELNAES ENE ASARI@BETHESDA@20/12/2015@90@0038.80@073@ADVENTURE|CASUAL|RACING|RPG|SPORTS@###########################################################################################EL2K230317@ELANA ALARI UEL ASARI@2K GAMES@23/03/2014@17@0049.09@071@ACTION|CASUAL|MULTIPLAYER|RACING@###########################################################################################GABE030400@GANE ANCALEN SHEELNAES@BETHESDA@03/04/2005@00@0210.08@004@ACTION@####################################################################################################################AMNI190421@AMYELNEAS ELANA ALARI@NINTENDO@19/04/2014@21@0065.38@013@ADVENTURE|RACING@###########################################################################################################OMNA211018@OMANNAES GANE ANCALEN@NAUTY DOGS@21/10/2017@18@0135.77@007@ADVENTURE|MULTIPLAYER|RACING|SIMULATOR|SPORTS@############################################################################NYKO180100@NYTHNEDELL AMYELNEAS@KONAMI@18/01/2007@00@0017.51@031@ACTION|ADVENTURE|INDIE|RACING@#################################################################################################FYNA020117@FYREN LENORA OMANNAES@NAUTY DOGS@02/01/2018@17@0115.57@028@CASUAL|INDIE|RACING@######################################################################################################JICA070413@JISELENOR NYTHNEDELL@CAPCOM@07/04/2016@13@0122.20@091@ADVENTURE@#####################################################################################################################IFSQ160113@IFEMELLE FYREN LENORA@SQUARE ENIX@16/01/2001@13@0176.66@010@ADVENTURE|CASUAL|RACING|RPG@#############################################################################################WENA170803@WENTHEMAR JISELENOR@NAUTY DOGS@17/08/2012@03@0080.84@041@ACTION|ADVENTURE|RPG|SIMULATOR@#############################################################################################LYNI110903@LYLTAESI IFEMELLE@NINTENDO@11/09/2013@03@0021.05@043@ACTION|CASUAL@##################################################################################################################SYKO050800@SYLANANORA WENTHEMAR@KONAMI@05/08/2012@00@0133.48@073@CASUAL|INDIE|RPG@##############################################################################################################WASE240303@WANBEL LYLTAESI@SEGA@24/03/2012@03@0083.55@002@ACTION|ADVENTURE|SIMULATOR@###########################################################################################################AONA111190@AOSERA SYLANANORA@NAMCO@11/11/2009@90@0233.99@002@ADVENTURE|MULTIPLAYER@#############################################################################################################FAVA060521@FAAENAHIL WANBEL@VALVE@06/05/2012@21@0214.83@079@ACTION|ADVENTURE|CASUAL|MULTIPLAYER|RPG@############################################################################################REBE200318@REHE THALORE AOSERA@BETHESDA@20/03/2017@18@0156.57@097@ACTION|INDIE|MULTIPLAYER|RACING@##############################################################################################ESSE210403@ESYORIUS FAAENAHIL@SEGA@21/04/2018@03@0009.56@047@INDIE|MULTIPLAYER@#################################################################################################################LABE210890@LAALLONA REHE THALORE@BETHESDA@21/08/2016@90@0204.65@098@ACTION|CASUAL|INDIE|SIMULATOR|SPORTS@#######################################################################################ULAC110307@ULSE SERIN ESYORIUS@ACTIVISION@11/03/2012@07@0149.36@100@ADVENTURE|INDIE|RACING@#####################################################################################################IMNA140590@IMYHE BELANORE LAALLONA@NAMCO@14/05/2000@90@0054.43@005@CASUAL|MULTIPLAYER|RACING|RPG@###############################################################################################YEAC021217@YEFELONA ULSE SERIN@ACTIVISION@02/12/2004@17@0150.50@009@CASUAL|INDIE|RPG@###########################################################################################################IMAC110805@IMFLEAN IMYHE BELANORE@ACTIVISION@11/08/2000@05@0044.07@100@ACTION|ADVENTURE|CASUAL|INDIE@###########################################################################################IMBE130421@IMNELEAN YEFELONA@BETHESDA@13/04/2003@21@0199.55@033@ACTION|ADVENTURE|RPG@###########################################################################################################THVA200314@THILANMEL IMFLEAN@VALVE@20/03/2005@14@0048.74@023@ADVENTURE|CASUAL|INDIE|MULTIPLAYER@################################################################################################KASQ050813@KAVE LENORA IMNELEAN@SQUARE ENIX@05/08/2005@13@0137.53@056@INDIE|RACING|SIMULATOR@###################################################################################################ALNI240503@ALALSERIN THILANMEL@NINTENDO@24/05/2003@03@0222.93@050@ACTION|ADVENTURE|INDIE|RACING@################################################################################################NIKO030203@NILREN LENORA KAVE LENORA@KONAMI@03/02/2016@03@0196.15@088@ACTION|INDIE|RACING@######################################################################################################YLUB040213@YLOLENORA ALALSERIN@UBISOFT@04/02/2002@13@0165.67@097@RPG|SPORTS@####################################################################################################################NYNI170218@NYSE TIRION NILREN LENORA@NINTENDO@17/02/2017@18@0143.78@014@INDIE@##################################################################################################################THVA220918@THEVALENORA YLOLENORA@VALVE@22/09/2013@18@0234.74@072@ACTION|ADVENTURE|CASUAL|INDIE@#################################################################################################ELSQ170221@ELYANEAS NYSE TIRION@SQUARE ENIX@17/02/2011@21@0165.22@016@ACTION|RPG|SIMULATOR|SPORTS@##############################################################################################THVA190917@THEHTALOS THEVALENORA@VALVE@19/09/2002@17@0189.26@059@ACTION|CASUAL|MULTIPLAYER@#####################################################################################################NICA111117@NILSASARI ELYANEAS@CAPCOM@11/11/2007@17@0209.61@100@ADVENTURE|CASUAL|INDIE|RACING|SIMULATOR@#########################################################################################OLSQ050117@OLYVASERA THEHTALOS@SQUARE ENIX@05/01/2014@17@0010.80@036@ADVENTURE|INDIE|RPG@#######################################################################################################NESE161205@NEM SERIN NILSASARI@SEGA@16/12/2007@05@0110.94@058@CASUAL|INDIE|MULTIPLAYER@#########################################################################################################MYVA161021@MYO DORTHORE OLYVASERA@VALVE@16/10/2010@21@0051.94@064@ACTION|ADVENTURE|CASUAL|INDIE|RPG@############################################################################################LENA100300@LELMA CAELORA NEM SERIN@NAUTY DOGS@10/03/2011@00@0150.51@036@INDIE|MULTIPLAYER|RACING|SPORTS@########################################################################################HESQ180103@HELE ALORA MYO DORTHORE@SQUARE ENIX@18/01/2000@03@0235.54@074@ADVENTURE|SIMULATOR@###################################################################################################NYNA200118@NYNA ORTHEIAD LELMA CAELORA@NAMCO@20/01/2004@18@0184.58@064@ACTION|CASUAL|INDIE|RACING|RPG@##########################################################################################YLAC180414@YLA EDHIL HELE ALORA@ACTIVISION@18/04/2010@14@0168.65@062@ACTION|ADVENTURE|CASUAL|INDIE|RPG@#########################################################################################THVA260414@THELEQUA NYNA ORTHEIAD@VALVE@26/04/2014@14@0121.85@021@ADVENTURE@####################################################################################################################AM2K270821@AMYRANLEAN YLA EDHIL@2K GAMES@27/08/2003@21@0088.68@079@INDIE|RACING|RPG|SIMULATOR|SPORTS@###########################################################################################MESE141017@MERENTHEMAR THELEQUA@SEGA@14/10/2017@17@0076.34@043@ACTION|INDIE@####################################################################################################################EMSQ240618@EMYMA ENNORE AMYRANLEAN@SQUARE ENIX@24/06/2009@18@0030.84@095@ADVENTURE|CASUAL|RACING|RPG|SIMULATOR@#################################################################################NYCA010905@NYTA ANORE MERENTHEMAR@CAPCOM@01/09/2009@05@0175.14@029@ACTION|INDIE|MULTIPLAYER|RACING|RPG@#########################################################################################IFNA101217@IFFANORE EMYMA ENNORE@NAMCO@10/12/2013@17@0146.32@014@MULTIPLAYER|RACING|SIMULATOR@##################################################################################################AEAC081221@AENLONE NYTA ANORE@ACTIVISION@08/12/2004@21@0100.71@078@RACING|SIMULATOR@############################################################################################################ARNI010503@ARANRIUS IFFANORE@NINTENDO@01/05/2011@03@0143.11@040@SIMULATOR@######################################################################################################################NYSQ220914@NYLVATHAES AENLONE@SQUARE ENIX@22/09/2004@14@0136.28@048@ACTION|CASUAL|MULTIPLAYER|RPG|SIMULATOR@####################################################################################AAAC190721@AAENA CAELORA ARANRIUS@ACTIVISION@19/07/2002@21@0049.43@091@RACING|RPG@##############################################################################################################JIKO150418@JIALLIAN NYLVATHAES@KONAMI@15/04/2007@18@0022.97@021@MULTIPLAYER|SIMULATOR@##########################################################################################################SHAC060113@SHENBEL AAENA CAELORA@ACTIVISION@06/01/2017@13@0043.85@084@ACTION|ADVENTURE|MULTIPLAYER|SIMULATOR@###################################################################################AFUB011121@AFNSHARA JIALLIAN@UBISOFT@01/11/2000@21@0196.29@038@ADVENTURE|RACING|RPG|SPORTS@#####################################################################################################SHVA110803@SHEHARION SHENBEL@VALVE@11/08/2018@03@0012.76@035@ACTION|ADVENTURE|INDIE|MULTIPLAYER|RPG@############################################################################################ISNI140305@ISHHE BELANORE AFNSHARA@NINTENDO@14/03/2012@05@0013.51@063@MULTIPLAYER@##############################################################################################################IYVA110290@IYAENAGROTH SHEHARION@VALVE@11/02/2011@90@0078.35@053@ACTION|CASUAL@#################################################################################################################YECA050307@YELNORA ISHHE BELANORE@CAPCOM@05/03/2005@07@0126.28@032@ACTION|ADVENTURE|CASUAL|MULTIPLAYER|SIMULATOR@###############################################################################GA2K070613@GAETHQUA IYAENAGROTH@2K GAMES@07/06/2013@13@0141.42@035@ACTION@######################################################################################################################FYNI191113@FYNE AETHEL YELNORA@NINTENDO@19/11/2014@13@0106.69@044@ADVENTURE|INDIE@##############################################################################################################OMUB050605@OMYAENA ORTHEIAD GAETHQUA@UBISOFT@05/06/2017@05@0008.68@084@ACTION|ADVENTURE|MULTIPLAYER|SIMULATOR@##################################################################################AS2K030613@ASHSE TIRION FYNE AETHEL@2K GAMES@03/06/2011@13@0092.95@050@ACTION|MULTIPLAYER|RACING|SIMULATOR@#####################################################################################AYBE030118@AYMMEL OMYAENA ORTHEIAD@BETHESDA@03/01/2008@18@0102.52@030@ACTION|RACING@############################################################################################################NINI170413@NILRENRION ASHSE TIRION@NINTENDO@17/04/2009@13@0133.14@077@ADVENTURE|CASUAL|MULTIPLAYER@#############################################################################################UNNA210714@UNYRANLUMA AYMMEL@NAMCO@21/07/2017@14@0002.77@077@MULTIPLAYER|RPG@###################################################################################################################LYCA201221@LYLLARIUS NILRENRION@CAPCOM@20/12/2017@21@0101.29@043@ACTION|RACING@#################################################################################################################MOSQ020405@MORNE ANORE UNYRANLUMA@SQUARE ENIX@02/04/2010@05@0105.76@042@ACTION@#################################################################################################################ME2K160814@MEATHLIAN LYLLARIUS@2K GAMES@16/08/2002@14@0103.58@035@ACTION|ADVENTURE|INDIE@#######################################################################################################ALNA200905@ALYHO NALORE MORNE ANORE@NAMCO@20/09/2008@05@0214.30@029@CASUAL|INDIE|MULTIPLAYER|RPG@###############################################################################################THNI230103@THELMEHONE MEATHLIAN@NINTENDO@23/01/2014@03@0031.19@040@ACTION|SIMULATOR@############################################################################################################ESNI230803@ESMELLE ALYHO NALORE@NINTENDO@23/08/2011@03@0083.97@062@ACTION|MULTIPLAYER@##########################################################################################################YOBE151207@YOKADI THELMEHONE@BETHESDA@15/12/2014@07@0062.92@053@ACTION|CASUAL|INDIE|MULTIPLAYER@################################################################################################ELBE200900@ELLLELUNE ESMELLE@BETHESDA@20/09/2013@00@0135.66@011@ADVENTURE@######################################################################################################################WENA200313@WEETH AIQUA YOKADI@NAMCO@20/03/2010@13@0197.95@097@ACTION|CASUAL|MULTIPLAYER|RACING|SPORTS@##########################################################################################AMAC190921@AMHOLENOR ELLLELUNE@ACTIVISION@19/09/2007@21@0193.25@056@SIMULATOR@##################################################################################################################TH2K120307@THILSA BELANORE WEETH AIQUA@2K GAMES@12/03/2009@07@0189.12@094@ACTION|CASUAL|INDIE|MULTIPLAYER|RPG@##################################################################################YLCA191121@YLLRENNOR AMHOLENOR@CAPCOM@19/11/2002@21@0016.90@014@ACTION|ADVENTURE|MULTIPLAYER|RACING|RPG@########################################################################################IRSE200618@IRRAN SERINE THILSA BELANORE@SEGA@20/06/2006@18@0171.14@057@INDIE@###################################################################################################################AMSQ240817@AMVATHEAS YLLRENNOR@SQUARE ENIX@24/08/2002@17@0051.93@052@MULTIPLAYER@###############################################################################################################MOBE060521@MOREN ENNORE IRRAN SERINE@BETHESDA@06/05/2011@21@0109.37@069@ADVENTURE|CASUAL@#######################################################################################################IMSE051205@IMYHE BELANORE THEVALENORA@SEGA@05/12/2004@05@0170.96@010@CASUAL|INDIE|MULTIPLAYER|RACING|RPG@#######################################################################################YEVA071005@YEFELONA ELYANEAS@VALVE@07/10/2018@05@0020.61@007@ACTION|MULTIPLAYER|RPG@############################################################################################################IMNA151017@IMFLEAN THEHTALOS@NAUTY DOGS@15/10/2011@17@0089.42@063@ADVENTURE|INDIE|MULTIPLAYER|RPG@##############################################################################################IMAC040213@IMNELEAN NILSASARI@ACTIVISION@04/02/2001@13@0224.85@092@ADVENTURE|INDIE|RPG|SIMULATOR|SPORTS@########################################################################################THNA270518@THILANMEL OLYVASERA@NAMCO@27/05/2011@18@0000.83@002@INDIE@###########################################################################################################################KAAC110618@KAVE LENORA NEM SERIN@ACTIVISION@11/06/2002@18@0205.95@081@ACTION|MULTIPLAYER@#######################################################################################################ALSE140514@ALALSERIN MYO DORTHORE@SEGA@14/05/2002@14@0198.20@100@ACTION|ADVENTURE@##############################################################################################################NIVA241203@NILREN LENORA LELMA CAELORA@VALVE@24/12/2017@03@0169.06@069@ACTION|MULTIPLAYER|SIMULATOR@############################################################################################YLKO140300@YLOLENORA HELE ALORA@KONAMI@14/03/2017@00@0100.61@025@ADVENTURE@#####################################################################################################################NYCA061214@NYSE TIRION NYNA ORTHEIAD@CAPCOM@06/12/2008@14@0055.37@014@CASUAL|MULTIPLAYER|RACING|RPG|SIMULATOR@##################################################################################THBE170490@THEVALENORA YLA EDHIL@BETHESDA@17/04/2009@90@0083.13@076@MULTIPLAYER@################################################################################################################ELUB151217@ELYANEAS THELEQUA@UBISOFT@15/12/2007@17@0183.29@035@ACTION@##########################################################################################################################TH2K121113@THEHTALOS AMYRANLEAN@2K GAMES@12/11/2003@13@0206.80@017@MULTIPLAYER@#################################################################################################################NINA120505@NILSASARI MERENTHEMAR@NAMCO@12/05/2014@05@0003.04@048@ACTION|ADVENTURE|MULTIPLAYER|SPORTS@###########################################################################################OLUB200817@OLYVASERA EMYMA ENNORE@UBISOFT@20/08/2001@17@0132.35@054@ADVENTURE@##################################################################################################################NESQ090421@NEM SERIN NYTA ANORE@SQUARE ENIX@09/04/2011@21@0126.71@025@MULTIPLAYER@##############################################################################################################*|BE050521@MYO DORTHORE RU@BETHESDA@05/05/2017@21@0180.04@099@RACING|SIMULATOR|SPORTS@##########################################################################################################LESQ020313@LELMA CAELORA AENLONE@SQUARE ENIX@02/03/2002@13@0142.35@078@ACTION|INDIE|MULTIPLAYER|RACING|RPG@#####################################################################################HEAC190907@HELE ALORA ARANRIUS@ACTIVISION@19/09/2018@07@0227.83@028@ACTION|ADVENTURE@###########################################################################################################NYSE041100@NYNA ORTHEIAD NYLVATHAES@SEGA@04/11/2003@00@0212.13@033@ACTION|CASUAL|INDIE|RACING|RPG@##############################################################################################
+********************************LISTAR********************************
+[0] Ocupado: UNNA210714
+[1] Ocupado: FYNI191113
+[2] Ocupado: OSVA090417
+[3] Ocupado: LYCA201221
+[4] Ocupado: ME2K160814
+[5] Ocupado: MOSQ020405
+[6] Ocupado: ALNA200905
+[7] Ocupado: THNI230103
+[8] Ocupado: LSKO040603
+[9] Ocupado: ESNI230803
+[10] Ocupado: ELSQ170221
+[11] Ocupado: NYKO180100
+[12] Ocupado: YOBE151207
+[13] Ocupado: UNUB270605
+[14] Ocupado: ELBE200900
+[15] Ocupado: WENA200313
+[16] Ocupado: LYNI110903
+[17] Ocupado: AMAC190921
+[18] Ocupado: TH2K120307
+[19] Ocupado: YLCA191121
+[20] Ocupado: IRSE200618
+[21] Ocupado: MOBE060521
+[22] Ocupado: IMSE051205
+[23] Ocupado: YEVA071005
+[24] Ocupado: IMNA151017
+[25] Ocupado: KASQ050813
+[26] Ocupado: THNA270518
+[27] Ocupado: ALSE140514
+[28] Ocupado: NIVA241203
+[29] Ocupado: SISQ070417
+[30] Ocupado: THVA190917
+[31] Ocupado: EMSQ240618
+[32] Ocupado: YLKO140300
+[33] Ocupado: NYCA061214
+[34] Ocupado: THBE170490
+[35] Ocupado: ELUB151217
+[36] Ocupado: NINA120505
+[37] Ocupado: OLUB200817
+[38] Ocupado: NESQ090421
+[39] Removido
+[40] Ocupado: LESQ020313
+[41] Ocupado: HEAC190907
+[42] Ocupado: NYSE041100
+[43] Ocupado: AMSQ240817
+[44] Livre
+[45] Livre
+[46] Livre
+[47] Livre
+[48] Livre
+[49] Ocupado: SYKO050800
+[50] Livre
+[51] Livre
+[52] Livre
+[53] Livre
+[54] Livre
+[55] Livre
+[56] Livre
+[57] Livre
+[58] Livre
+[59] Livre
+[60] Livre
+[61] Livre
+[62] Livre
+[63] Livre
+[64] Livre
+[65] Livre
+[66] Livre
+[67] Livre
+[68] Livre
+[69] Livre
+[70] Livre
+[71] Livre
+[72] Livre
+[73] Livre
+[74] Livre
+[75] Livre
+[76] Ocupado: NYSQ220914
+[77] Livre
+[78] Livre
+[79] Livre
+[80] Livre
+[81] Livre
+[82] Livre
+[83] Livre
+[84] Livre
+[85] Ocupado: URSQ260813
+[86] Livre
+[87] Livre
+[88] Livre
+[89] Livre
+[90] Livre
+[91] Livre
+[92] Livre
+[93] Livre
+[94] Livre
+[95] Livre
+[96] Livre
+[97] Livre
+[98] Livre
+[99] Livre
+[100] Livre
+[101] Livre
+[102] Livre
+[103] Livre
+[104] Livre
+[105] Livre
+[106] Livre
+[107] Livre
+[108] Livre
+[109] Livre
+[110] Livre
+[111] Livre
+[112] Livre
+[113] Livre
+[114] Livre
+[115] Livre
+[116] Livre
+[117] Livre
+[118] Livre
+[119] Livre
+[120] Livre
+[121] Livre
+[122] Livre
+[123] Livre
+[124] Livre
+[125] Livre
+[126] Livre
+[127] Livre
+[128] Livre
+[129] Livre
+[130] Livre
+[131] Livre
+[132] Livre
+[133] Livre
+[134] Livre
+[135] Livre
+[136] Livre
+[137] Livre
+[138] Livre
+[139] Livre
+[140] Livre
+[141] Livre
+[142] Livre
+[143] Livre
+[144] Livre
+[145] Livre
+[146] Livre
+[147] Livre
+[148] Livre
+[149] Livre
+[150] Livre
+[151] Livre
+[152] Livre
+[153] Livre
+[154] Livre
+[155] Livre
+[156] Livre
+[157] Livre
+[158] Livre
+[159] Livre
+[160] Livre
+[161] Livre
+[162] Ocupado: AAAC141118
+[163] Livre
+[164] Livre
+[165] Livre
+[166] Livre
+[167] Livre
+[168] Livre
+[169] Livre
+[170] Livre
+[171] Ocupado: NICA111117
+[172] Livre
+[173] Livre
+[174] Livre
+[175] Livre
+[176] Livre
+[177] Livre
+[178] Livre
+[179] Livre
+[180] Livre
+[181] Livre
+[182] Livre
+[183] Ocupado: RACA200521
+[184] Livre
+[185] Ocupado: GABE030400
+[186] Ocupado: YEAC021217
+[187] Ocupado: KAAC110618
+[188] Ocupado: REBE200318
+[189] Ocupado: TH2K121113
+[190] Ocupado: IMAC040213
+[191] Ocupado: HEAC030505
+[192] Livre
+[193] Livre
+[194] Ocupado: ILCA210400
+[195] Ocupado: SHBE201290
+[196] Ocupado: ULAC110307
+[197] Ocupado: AS2K220290
+[198] Ocupado: LENA100300
+[199] Ocupado: MABE070213
+[200] Ocupado: IFNA101217
+[201] Ocupado: EL2K230317
+[202] Ocupado: AEAC081221
+[203] Ocupado: AONA111190
+[204] Ocupado: SHAC060113
+[205] Ocupado: AFUB011121
+[206] Ocupado: YECA050307
+[207] Ocupado: ELNA210205
+[208] Ocupado: NIAC261117
+[209] Ocupado: YLNA010113
+[210] Ocupado: OL2K061117
+[211] Ocupado: OMNA211018
+[212] Ocupado: IYAC010403
+[213] Ocupado: AYBE030118
+[214] Ocupado: MANA261014
+[215] Ocupado: JICA070413
+[216] Ocupado: IFVA120118
+[217] Ocupado: THNA110300
+[218] Ocupado: NENA041217
+[219] Ocupado: EMCA070413
+[220] Ocupado: AENA050418
+[221] Ocupado: MENA060213
+[222] Ocupado: SHNA121221
+[223] Ocupado: SH2K230513
+[224] Ocupado: LEBE020803
+[225] Ocupado: ISNA011221
+[226] Ocupado: MICA070507
+[227] Ocupado: ENAC230517
+[228] Ocupado: OSNA221021
+[229] Ocupado: FYNA020117
+[230] Ocupado: LABE210890
+[231] Ocupado: IMAC110805
+[232] Ocupado: IMBE130421
+[233] Ocupado: NYNA200118
+[234] Ocupado: AMKO010107
+[235] Ocupado: NYNA120103
+[236] Ocupado: AMBE070517
+[237] Ocupado: ISNA060114
+[238] Ocupado: AMCA250717
+[239] Ocupado: AMNA191007
+[240] Ocupado: EMBE250590
+[241] Ocupado: WENA220514
+[242] Ocupado: THVA200314
+[243] Ocupado: MESE141017
+[244] Ocupado: AAAC190721
+[245] Ocupado: UESE140117
+[246] Ocupado: NYCA100817
+[247] Ocupado: ARVA210314
+[248] Ocupado: MO2K270414
+[249] Ocupado: LYNA120390
+[250] Ocupado: IMNA140590
+[251] Ocupado: YLAC180414
+[252] Ocupado: GA2K070613
+[253] Ocupado: YEBE270518
+[254] Ocupado: JINA210890
+[255] Ocupado: FAVA060521
+[256] Ocupado: YR2K190203
+[257] Ocupado: NYCA010905
+[258] Ocupado: THNI020413
+[259] Ocupado: MY2K270321
+[260] Ocupado: YLAC080605
+[261] Ocupado: MESE261107
+[262] Ocupado: GAUB200917
+[263] Ocupado: ILVA071103
+[264] Ocupado: CY2K250603
+[265] Ocupado: AFBE090914
+[266] Ocupado: OSSE230114
+[267] Ocupado: WASE240303
+[268] Ocupado: FYNA030613
+[269] Ocupado: GAVA070617
+[270] Ocupado: OM2K180703
+[271] Ocupado: AY2K190514
+[272] Ocupado: MONI120400
+[273] Ocupado: ESCA270813
+[274] Ocupado: THSE150390
+[275] Ocupado: JISE181103
+[276] Ocupado: ESSE210403
+[277] Ocupado: YOUB061118
+[278] Ocupado: ALNI240503
+[279] Ocupado: NIKO030203
+[280] Ocupado: YLUB040213
+[281] Ocupado: NESE161205
+[282] Ocupado: MYVA161021
+[283] Ocupado: AM2K270821
+[284] Ocupado: THVA260414
+[285] Ocupado: ARNI010503
+[286] Ocupado: SHVA110803
+[287] Ocupado: ISNI140305
+[288] Ocupado: JIKO150418
+[289] Ocupado: IYVA110290
+[290] Ocupado: NYVA161113
+[291] Ocupado: NINA250907
+[292] Ocupado: WENA170803
+[293] Ocupado: OMUB050605
+[294] Ocupado: AS2K030613
+[295] Ocupado: IFSQ160113
+[296] Ocupado: ELUB040918
+[297] Ocupado: THNI110903
+[298] Ocupado: AMNI190421
+[299] Ocupado: THKO220605
+[300] Ocupado: IRNA060921
+[301] Ocupado: THVA220918
+[302] Ocupado: OLSQ050117
+[303] Ocupado: NINI170413
+[304] Ocupado: HESQ180103
+[305] Ocupado: NYNI170218
+[306] Ocupado: ALSQ040413

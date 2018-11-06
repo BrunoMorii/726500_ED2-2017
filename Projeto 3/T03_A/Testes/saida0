@@ -1,0 +1,28 @@
+Registro LEWA041200 inserido com sucesso. Numero de colisoes: 0.
+
+Registro MEKO140118 inserido com sucesso. Numero de colisoes: 1.
+
+Registro BO2K241103 inserido com sucesso. Numero de colisoes: 0.
+
+Registro THED271000 inserido com sucesso. Numero de colisoes: 0.
+
+Registro HAVA160314 inserido com sucesso. Numero de colisoes: 1.
+
+Registro CAAC180614 inserido com sucesso. Numero de colisoes: 1.
+
+Registro GRRO120803 inserido com sucesso. Numero de colisoes: 0.
+
+Registro XCFI201105 inserido com sucesso. Numero de colisoes: 5.
+
+********************************LISTAR********************************
+[0] Ocupado: LEWA041200
+[1] Ocupado: MEKO140118
+[2] Ocupado: CAAC180614
+[3] Ocupado: BO2K241103
+[4] Ocupado: HAVA160314
+[5] Ocupado: XCFI201105
+[6] Ocupado: THED271000
+[7] Livre
+[8] Ocupado: GRRO120803
+[9] Livre
+[10] Livre
