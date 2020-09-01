@@ -8,7 +8,7 @@ No ano de 2017, o tema para o projeto foi o sistema Steam e os projetos foram:
 ### Projeto 2
   Implementação e manipulação de arquivos e indexação por Árvore-B (sem remoção).
   
-### Projeto 1
+### Projeto 3
   Implementação e manipulação de arquivos e indexação por Tabela Hash.
   Dois modos de projeto:
   - Usa técnica de reespalhamento linear
